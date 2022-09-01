@@ -2,7 +2,7 @@ import Home from './components/home';
 import NotFoundPage from './components/NotFoundPage.jsx';
 import Users from './components/users';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Navbar from './components/Navbar/navbar';
+import Navbar from './components/NavBar/navbar.jsx';
 
 const App = () => {
     return (
